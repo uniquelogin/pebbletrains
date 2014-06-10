@@ -3,6 +3,12 @@
 static Window *window;
 static SimpleMenuLayer* menuLayer;
 
+typedef struct TGcString
+{
+	char* String;
+	struct TGcString* Next;
+} TGcString;
+
 typedef struct
 {
 	char Departure[10];
