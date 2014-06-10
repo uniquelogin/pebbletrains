@@ -1,0 +1,17 @@
+{
+  "uuid": "8b569728-f294-4422-a5fb-c7f858e6dc51",
+  "shortName": "Trains",
+  "longName": "Trains",
+  "companyName": "N/A",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
